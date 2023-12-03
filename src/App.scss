@@ -1,0 +1,19 @@
+.page {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  padding: 30px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1920px;
+  color: #fff;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  margin: 0 0 50px 0;
+  text-align: center;
+}
