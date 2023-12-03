@@ -12,7 +12,7 @@
 
 Запустить сервер http://localhost:3000/ 
 ```
-json-server -w db.json
+json-server -w db.json || npm run server
 ```
 
 Запустить проект

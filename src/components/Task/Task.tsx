@@ -1,4 +1,4 @@
-import React, { FC, MouseEvent } from 'react';
+import { FC, MouseEvent } from 'react';
 import { ITask } from '../../models/ITask';
 import './Task.scss';
 
